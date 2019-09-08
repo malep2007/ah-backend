@@ -44,5 +44,5 @@ jobs:
         coverage report
     - name: Coveralls Report
       run:
-        
+        coveralls
       
