@@ -3,3 +3,7 @@
 
 # All automatically generated python files
 */__pycache__/*
+
+# Enviroment variables and 
+.env
+.coveralls.yml
