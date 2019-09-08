@@ -1,0 +1,5 @@
+# coverage test files
+.coverage
+
+# All automatically generated python files
+*/__pycache__/*
