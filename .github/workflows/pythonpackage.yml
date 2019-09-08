@@ -44,5 +44,6 @@ jobs:
         coverage report
     - name: Coveralls Report
       run:
+        pip install coveralls
         coveralls
       
