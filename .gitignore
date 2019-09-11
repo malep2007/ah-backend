@@ -7,3 +7,4 @@
 # Enviroment variables and 
 .env
 .coveralls.yml
+db.sqlite3
